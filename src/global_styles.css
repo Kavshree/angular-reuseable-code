@@ -1,0 +1,18 @@
+/* Add application styles & imports to this file! */
+.solid {
+  background-color: darkorchid;
+  border: 3px solid;
+}
+
+.stroked {
+  background-color: transparent;
+  border: 3px solid;
+}
+
+.primary {
+  color: darkorchid;
+}
+
+.secondary {
+  color:darkorange;
+}
